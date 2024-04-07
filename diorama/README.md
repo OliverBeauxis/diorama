@@ -9,4 +9,4 @@ Zcela zdarma, stahujte ihned, bude se Vám líbit!!
 ## Ultra mega supr novinka!!!!!11!1
 Nyní běží i webstránka kde si můžete s tímto masakrem pohrát.
 Víte co je ale velmi smutné? To, že chamtiví prevíti z WebZdarma dělají vše proto, aby to ve skutečnosti nebylo zdarma, tím, že dokud jim nezaplatím za prémiovou verzi, kazí uživatelům zážitek (nezabezpečený web a reklamy, které posunou dioráma doprava a ještě pokazí jeho suprové textury). Z tohoto důvodu VELMI SILNĚ doporučuji si stáhnout a extrahovat soubory a otevřít index.html. Za tu půlminutu to rozhodně stojí.
-Nicméně, adresa je zde: <masakr.chytrak.cz>
+Nicméně, adresa je zde: <http://masakr.chytrak.cz>
